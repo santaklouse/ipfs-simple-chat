@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "ipfs": "^0.40.0",
+    "ipfs-pubsub-room": "^1.4.1"
+  }
+}
